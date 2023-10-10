@@ -22,7 +22,7 @@ function App() {
   return (
     <>
     <div style={{border:'1px solid red',padding : '20px',backgroundColor : 'tomato'}}>
-    <P2_Current_Time />
+    <P2_Current_Time /> 
     <div className="main-container">
     <div className="center-container">
       <TodoInput addList={addList}/>
